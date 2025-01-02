@@ -20,4 +20,4 @@ if(xpHeroi < 1000){
     nivelHeroi = "Deus"
 }
 
-console.log("O " + nomeHeroi + " esta no nivel " + nivelHeroi)
+console.log("O Herói de nome " + nomeHeroi + " esta no nivel " + nivelHeroi)
